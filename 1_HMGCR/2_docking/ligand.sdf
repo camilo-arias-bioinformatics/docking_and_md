@@ -1,0 +1,267 @@
+../molecules/ligand.pdb
+ OpenBabel08242609123D
+
+ 61 62  0  0  1  0  0  0  0  0999 V2000
+   22.4990    9.1480   14.2500 O   0  0  0  0  0  0  0  0  0  0  0  0
+   23.4010   11.0480   15.7550 O   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6800   10.5230   15.7900 N   0  0  0  0  0  0  0  0  0  0  0  0
+   20.6660   11.2210   17.1120 C   0  0  0  0  0  0  0  0  0  0  0  0
+   22.1600   10.5890   14.8680 S   0  0  0  0  0  0  0  0  0  0  0  0
+   21.9950   11.7620   13.5420 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.5550    8.6790   15.6430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3540    8.5130   14.2190 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3750    9.0560   13.3650 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4210    9.6920   13.9170 N   0  0  0  0  0  0  0  0  0  0  0  0
+   19.5170    9.8090   15.2220 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.6450    9.3340   16.0770 N   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2920    8.4100   18.5980 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1400    8.9730   17.6390 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.6890    8.1780   16.6080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3510    6.7930   16.5820 C   0  0  0  0  0  0  0  0  0  0  0  0
+   15.5070    6.2350   17.5370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9800    7.0450   18.5430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.1570    6.4940   19.4900 F   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0170    1.7210   16.2620 O   0  0  0  0  0  0  0  0  0  0  0  0
+   16.0700    2.5220   16.3330 O   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6730    4.6530   14.6640 O   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9380    2.2500   15.7140 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.9330    2.6730   14.2720 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8700    4.1980   14.0750 C   0  0  1  0  0  0  0  0  0  0  0  0
+   14.8610    4.5740   12.5940 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8400    6.0950   12.3090 C   0  0  1  0  0  0  0  0  0  0  0  0
+   16.1120    6.7650   12.8000 C   0  0  0  0  0  0  0  0  0  0  0  0
+   16.1100    7.7740   13.6700 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.3400    8.9420   11.8070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   18.5170   10.2780   11.0770 C   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4220    7.9530   11.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   14.6900    6.2610   10.9160 O   0  0  0  0  0  0  0  0  0  0  0  0
+   21.6254   11.6580   17.2948 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.4421   10.5161   17.8852 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.9205   11.9885   17.1022 H   0  0  0  0  0  0  0  0  0  0  0  0
+   22.9057   11.7970   12.9814 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.7877   12.7307   13.9464 H   0  0  0  0  0  0  0  0  0  0  0  0
+   21.1923   11.4642   12.9002 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.8959    9.0000   19.3464 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.3669    9.9787   17.6848 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7406    6.1918   15.8392 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.2729    5.2305   17.5014 H   0  0  0  0  0  0  0  0  0  0  0  0
+   16.7696    2.9379   15.8688 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.6670    4.4199   15.6056 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0814    2.2352   13.7945 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.8561    2.3404   13.8453 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7325    4.6451   14.5235 H   0  0  0  0  0  0  0  0  0  0  0  0
+   13.9918    4.1397   12.1459 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.7777    4.2042   12.1845 H   0  0  0  0  0  0  0  0  0  0  0  0
+   14.0289    6.5571   12.8319 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.0182    6.4232   12.4437 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.1899    8.0937   14.0108 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.3582    8.5790   11.5854 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.4925   10.6684   11.2791 H   0  0  0  0  0  0  0  0  0  0  0  0
+   17.7774   10.9717   11.4185 H   0  0  0  0  0  0  0  0  0  0  0  0
+   18.4046   10.1266   10.0237 H   0  0  0  0  0  0  0  0  0  0  0  0
+   20.3943    8.3350   11.5217 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.3259    7.8413   10.2302 H   0  0  0  0  0  0  0  0  0  0  0  0
+   19.2906    7.0019   11.7622 H   0  0  0  0  0  0  0  0  0  0  0  0
+   15.4325    5.8369   10.4580 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  5  2  0  0  0  0
+  2  5  2  0  0  0  0
+  3  4  1  0  0  0  0
+  3  5  1  0  0  0  0
+  3 11  1  0  0  0  0
+  4 34  1  0  0  0  0
+  4 35  1  0  0  0  0
+  4 36  1  0  0  0  0
+  5  6  1  0  0  0  0
+  6 37  1  0  0  0  0
+  6 38  1  0  0  0  0
+  6 39  1  0  0  0  0
+  7  8  1  0  0  0  0
+  7 12  2  0  0  0  0
+  7 15  1  0  0  0  0
+  8  9  2  0  0  0  0
+  8 29  1  0  0  0  0
+  9 10  1  0  0  0  0
+  9 30  1  0  0  0  0
+ 10 11  2  0  0  0  0
+ 11 12  1  0  0  0  0
+ 13 14  2  0  0  0  0
+ 13 18  1  0  0  0  0
+ 13 40  1  0  0  0  0
+ 14 15  1  0  0  0  0
+ 14 41  1  0  0  0  0
+ 15 16  2  0  0  0  0
+ 16 17  1  0  0  0  0
+ 16 42  1  0  0  0  0
+ 17 18  2  0  0  0  0
+ 17 43  1  0  0  0  0
+ 18 19  1  0  0  0  0
+ 20 23  2  0  0  0  0
+ 21 23  1  0  0  0  0
+ 21 44  1  0  0  0  0
+ 22 25  1  0  0  0  0
+ 22 45  1  0  0  0  0
+ 23 24  1  0  0  0  0
+ 24 25  1  0  0  0  0
+ 24 46  1  0  0  0  0
+ 24 47  1  0  0  0  0
+ 25 26  1  0  0  0  0
+ 25 48  1  1  0  0  0
+ 26 27  1  0  0  0  0
+ 26 49  1  0  0  0  0
+ 26 50  1  0  0  0  0
+ 27 28  1  0  0  0  0
+ 27 33  1  0  0  0  0
+ 27 51  1  1  0  0  0
+ 28 29  2  0  0  0  0
+ 28 52  1  0  0  0  0
+ 29 53  1  0  0  0  0
+ 30 31  1  0  0  0  0
+ 30 32  1  0  0  0  0
+ 30 54  1  0  0  0  0
+ 31 55  1  0  0  0  0
+ 31 56  1  0  0  0  0
+ 31 57  1  0  0  0  0
+ 32 58  1  0  0  0  0
+ 32 59  1  0  0  0  0
+ 32 60  1  0  0  0  0
+ 33 61  1  0  0  0  0
+M  END
+>  <SEQRES>
+   1 A  467  GLY ALA MET ALA SER SER VAL LEU VAL THR GLN GLU PRO
+   2 A  467  GLU ILE GLU LEU PRO ARG GLU PRO ARG PRO ASN GLU GLU
+   3 A  467  CYS LEU GLN ILE LEU GLY ASN ALA GLU LYS GLY ALA LYS
+   4 A  467  PHE LEU SER ASP ALA GLU ILE ILE GLN LEU VAL ASN ALA
+   5 A  467  LYS HIS ILE PRO ALA TYR LYS LEU GLU THR LEU ILE GLU
+   6 A  467  THR HIS GLU ARG GLY VAL SER ILE ARG ARG GLN LEU LEU
+   7 A  467  SER LYS LYS LEU SER GLU PRO SER SER LEU GLN TYR LEU
+   8 A  467  PRO TYR ARG ASP TYR ASN TYR SER LEU VAL MET GLY ALA
+   9 A  467  CYS CYS GLU ASN VAL ILE GLY TYR MET PRO ILE PRO VAL
+  10 A  467  GLY VAL ALA GLY PRO LEU CYS LEU ASP GLU LYS GLU PHE
+  11 A  467  GLN VAL PRO MET ALA THR THR GLU GLY CYS LEU VAL ALA
+  12 A  467  SER THR ASN ARG GLY CYS ARG ALA ILE GLY LEU GLY GLY
+  13 A  467  GLY ALA SER SER ARG VAL LEU ALA ASP GLY MET THR ARG
+  14 A  467  GLY PRO VAL VAL ARG LEU PRO ARG ALA CYS ASP SER ALA
+  15 A  467  GLU VAL LYS ALA TRP LEU GLU THR SER GLU GLY PHE ALA
+  16 A  467  VAL ILE LYS GLU ALA PHE ASP SER THR SER ARG PHE ALA
+  17 A  467  ARG LEU GLN LYS LEU HIS THR SER ILE ALA GLY ARG ASN
+  18 A  467  LEU TYR ILE ARG PHE GLN SER ARG SER GLY ASP ALA MET
+  19 A  467  GLY MET ASN MET ILE SER LYS GLY THR GLU LYS ALA LEU
+  20 A  467  SER LYS LEU HIS GLU TYR PHE PRO GLU MET GLN ILE LEU
+  21 A  467  ALA VAL SER GLY ASN TYR CYS THR ASP LYS LYS PRO ALA
+  22 A  467  ALA ILE ASN TRP ILE GLU GLY ARG GLY LYS SER VAL VAL
+  23 A  467  CYS GLU ALA VAL ILE PRO ALA LYS VAL VAL ARG GLU VAL
+  24 A  467  LEU LYS THR THR THR GLU ALA MET ILE GLU VAL ASN ILE
+  25 A  467  ASN LYS ASN LEU VAL GLY SER ALA MET ALA GLY SER ILE
+  26 A  467  GLY GLY TYR ASN ALA HIS ALA ALA ASN ILE VAL THR ALA
+  27 A  467  ILE TYR ILE ALA CYS GLY GLN ASP ALA ALA GLN ASN VAL
+  28 A  467  GLY SER SER ASN CYS ILE THR LEU MET GLU ALA SER GLY
+  29 A  467  PRO THR ASN GLU ASP LEU TYR ILE SER CYS THR MET PRO
+  30 A  467  SER ILE GLU ILE GLY THR VAL GLY GLY GLY THR ASN LEU
+  31 A  467  LEU PRO GLN GLN ALA CYS LEU GLN MET LEU GLY VAL GLN
+  32 A  467  GLY ALA CYS LYS ASP ASN PRO GLY GLU ASN ALA ARG GLN
+  33 A  467  LEU ALA ARG ILE VAL CYS GLY THR VAL MET ALA GLY GLU
+  34 A  467  LEU SER LEU MET ALA ALA LEU ALA ALA GLY HIS LEU VAL
+  35 A  467  LYS SER HIS MET ILE HIS ASN ARG SER LYS ILE ASN LEU
+  36 A  467  GLN ASP LEU GLN GLY ALA CYS THR LYS LYS THR ALA
+   1 B  467  GLY ALA MET ALA SER SER VAL LEU VAL THR GLN GLU PRO
+   2 B  467  GLU ILE GLU LEU PRO ARG GLU PRO ARG PRO ASN GLU GLU
+   3 B  467  CYS LEU GLN ILE LEU GLY ASN ALA GLU LYS GLY ALA LYS
+   4 B  467  PHE LEU SER ASP ALA GLU ILE ILE GLN LEU VAL ASN ALA
+   5 B  467  LYS HIS ILE PRO ALA TYR LYS LEU GLU THR LEU ILE GLU
+   6 B  467  THR HIS GLU ARG GLY VAL SER ILE ARG ARG GLN LEU LEU
+   7 B  467  SER LYS LYS LEU SER GLU PRO SER SER LEU GLN TYR LEU
+   8 B  467  PRO TYR ARG ASP TYR ASN TYR SER LEU VAL MET GLY ALA
+   9 B  467  CYS CYS GLU ASN VAL ILE GLY TYR MET PRO ILE PRO VAL
+  10 B  467  GLY VAL ALA GLY PRO LEU CYS LEU ASP GLU LYS GLU PHE
+  11 B  467  GLN VAL PRO MET ALA THR THR GLU GLY CYS LEU VAL ALA
+  12 B  467  SER THR ASN ARG GLY CYS ARG ALA ILE GLY LEU GLY GLY
+  13 B  467  GLY ALA SER SER ARG VAL LEU ALA ASP GLY MET THR ARG
+  14 B  467  GLY PRO VAL VAL ARG LEU PRO ARG ALA CYS ASP SER ALA
+  15 B  467  GLU VAL LYS ALA TRP LEU GLU THR SER GLU GLY PHE ALA
+  16 B  467  VAL ILE LYS GLU ALA PHE ASP SER THR SER ARG PHE ALA
+  17 B  467  ARG LEU GLN LYS LEU HIS THR SER ILE ALA GLY ARG ASN
+  18 B  467  LEU TYR ILE ARG PHE GLN SER ARG SER GLY ASP ALA MET
+  19 B  467  GLY MET ASN MET ILE SER LYS GLY THR GLU LYS ALA LEU
+  20 B  467  SER LYS LEU HIS GLU TYR PHE PRO GLU MET GLN ILE LEU
+  21 B  467  ALA VAL SER GLY ASN TYR CYS THR ASP LYS LYS PRO ALA
+  22 B  467  ALA ILE ASN TRP ILE GLU GLY ARG GLY LYS SER VAL VAL
+  23 B  467  CYS GLU ALA VAL ILE PRO ALA LYS VAL VAL ARG GLU VAL
+  24 B  467  LEU LYS THR THR THR GLU ALA MET ILE GLU VAL ASN ILE
+  25 B  467  ASN LYS ASN LEU VAL GLY SER ALA MET ALA GLY SER ILE
+  26 B  467  GLY GLY TYR ASN ALA HIS ALA ALA ASN ILE VAL THR ALA
+  27 B  467  ILE TYR ILE ALA CYS GLY GLN ASP ALA ALA GLN ASN VAL
+  28 B  467  GLY SER SER ASN CYS ILE THR LEU MET GLU ALA SER GLY
+  29 B  467  PRO THR ASN GLU ASP LEU TYR ILE SER CYS THR MET PRO
+  30 B  467  SER ILE GLU ILE GLY THR VAL GLY GLY GLY THR ASN LEU
+  31 B  467  LEU PRO GLN GLN ALA CYS LEU GLN MET LEU GLY VAL GLN
+  32 B  467  GLY ALA CYS LYS ASP ASN PRO GLY GLU ASN ALA ARG GLN
+  33 B  467  LEU ALA ARG ILE VAL CYS GLY THR VAL MET ALA GLY GLU
+  34 B  467  LEU SER LEU MET ALA ALA LEU ALA ALA GLY HIS LEU VAL
+  35 B  467  LYS SER HIS MET ILE HIS ASN ARG SER LYS ILE ASN LEU
+  36 B  467  GLN ASP LEU GLN GLY ALA CYS THR LYS LYS THR ALA
+
+>  <HELIX>
+   1   1 SER A  463  LYS A  474  1                                  12
+   2   2 PRO A  477  LEU A  484  1                                   8
+   3   3 THR A  487  LYS A  501  1                                  15
+   4   4 SER A  507  LEU A  512  1                                   6
+   5   5 ASN A  518  MET A  523  1                                   6
+   6   6 CYS A  561  GLY A  576  1                                  16
+   7   7 ARG A  598  GLU A  610  1                                  13
+   8   8 THR A  611  SER A  624  1                                  14
+   9   9 GLY A  656  PHE A  675  1                                  20
+  10  10 ALA A  694  GLY A  701  1                                   8
+  11  11 PRO A  713  VAL A  720  1                                   8
+  12  12 THR A  724  ASN A  736  1                                  13
+  13  13 LEU A  737  ALA A  743  1                                   7
+  14  14 HIS A  752  CYS A  764  1                                  13
+  15  15 ASP A  767  ALA A  769  1                                   3
+  16  16 GLN A  770  SER A  775  1                                   6
+  17  17 GLY A  806  ASN A  810  1                                   5
+  18  18 LEU A  811  LEU A  821  1                                  11
+  19  19 GLY A  832  GLY A  860  1                                  29
+  20  20 SER B  463  ASN B  472  1                                  10
+  21  21 PRO B  477  LEU B  481  1                                   5
+  22  22 THR B  487  LYS B  501  1                                  15
+  23  23 SER B  507  LEU B  512  1                                   6
+  24  24 ASN B  518  MET B  523  1                                   6
+  25  25 CYS B  561  LEU B  575  1                                  15
+  26  26 ARG B  598  GLU B  610  1                                  13
+  27  27 THR B  611  SER B  624  1                                  14
+  28  28 GLY B  656  PHE B  675  1                                  20
+  29  29 ALA B  694  GLY B  701  1                                   8
+  30  30 PRO B  713  VAL B  720  1                                   8
+  31  31 THR B  724  ASN B  736  1                                  13
+  32  32 LEU B  737  ALA B  743  1                                   7
+  33  33 HIS B  752  CYS B  764  1                                  13
+  34  34 ASP B  767  ALA B  769  1                                   3
+  35  35 GLN B  770  SER B  775  1                                   6
+  36  36 GLY B  806  ASN B  810  1                                   5
+  37  37 LEU B  811  LEU B  821  1                                  11
+  38  38 GLY B  832  GLY B  860  1                                  29
+
+>  <SHEET>
+   1   1 1 VAL A 530  LEU A 546  0
+   2   2 1 LYS A 549  ALA A 556  0
+   3   3 1 SER A 580  ARG A 590  0
+   4   4 1 VAL A 593  ARG A 595  0
+   5   5 1 ARG A 630  ALA A 639  0
+   6   6 1 ASN A 642  ARG A 650  0
+   7   7 1 GLN A 679  ALA A 682  0
+   8   8 1 GLY A 703  ILE A 712  0
+   9   9 1 GLY A 748  TYR A 749  0
+  10  10 1 CYS A 777  SER A 784  0
+  11  11 1 ASP A 790  ILE A 800  0
+  12  12 1 VAL B 530  LEU B 546  0
+  13  13 1 LYS B 549  ALA B 556  0
+  14  14 1 SER B 580  ARG B 590  0
+  15  15 1 VAL B 593  ARG B 595  0
+  16  16 1 ARG B 630  ALA B 639  0
+  17  17 1 ASN B 642  ARG B 650  0
+  18  18 1 GLN B 679  ALA B 682  0
+  19  19 1 GLY B 703  ILE B 712  0
+  20  20 1 GLY B 748  TYR B 749  0
+  21  21 1 CYS B 777  SER B 784  0
+  22  22 1 ASP B 790  ILE B 800  0
+
+$$$$
